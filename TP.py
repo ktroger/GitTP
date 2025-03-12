@@ -11,4 +11,4 @@ import random
 print("Lucky number:", random.randint(1, 100))
 
 # Step 4: Final message
-print("Great job completing the steps!")
+#print("Great job completing the steps!")
